@@ -21,8 +21,7 @@ C:\Users\DELL\Desktop\web app\frontend-mentor\qr-code-component-main\qr-code-com
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://github.com/rasikapatil3499/frontendmentor-rasikapatil](https://your-live-site-url.com)
 
 ### Built with
 
